@@ -39,6 +39,7 @@
 }
 .btn-cart .btn-text{
     margin-right: 6px;
+    padding-top: 13px;
 }
 .btn-cart:hover{
     background-color: gray;
