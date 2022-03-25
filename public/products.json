@@ -1,0 +1,62 @@
+[
+    {
+        "id": "01",
+        "name": "Fossil FS4656",
+        "price": "$350",
+        "image": "https://timeaccess-store.com/wp-content/uploads/2021/04/FS4656_main.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Fossil FS4682",
+        "price": "$150",
+        "image": "https://www.joyeriapato.com/6779-large_default/fossil-watch-machine-fs4682.jpg"
+    },
+    {
+        "id": "03",
+        "name": "Fossil FS12324",
+        "price": "$250",
+        "image": "https://fossil.scene7.com/is/image/FossilPartners/FS5901-alt?$sfcc_fos_medium$"
+    },
+    {
+        "id": "04",
+        "name": "Fossil FS4735",
+        "price": "$280",
+        "image": "https://timeaccess-store.com/wp-content/uploads/2021/01/719Y3Igds-L._UL1500_.jpg"
+    },
+    {
+        "id": "05",
+        "name": "Fossil FS4763",
+        "price": "$285",
+        "image": "https://fossil.scene7.com/is/image/FossilPartners/BQ2365-alt?$sfcc_fos_medium$"
+    },
+    {
+        "id": "06",
+        "name": "Fossil CH2600",
+        "price": "$385",
+        "image": "https://happyshopping247.com/wp-content/uploads/2017/12/1-49.jpg"
+    },
+    {
+        "id": "07",
+        "name": "Fossil SD9238",
+        "price": "$390",
+        "image": "https://s.yimg.com/aah/4-watches/men-s-fossil-watch-fs4835-29.gif"
+    },
+    {
+        "id": "08",
+        "name": "Fossil WB2364",
+        "price": "$410",
+        "image": "https://www.fossil.com/on/demandware.static/-/Library-Sites-FossilSharedLibrary/default/dwec5eb48e/2022/SP22/set_0215_global/Watches%20DGP/0215_DGP_Watches_wstainless.jpg"
+    },
+    {
+        "id": "09",
+        "name": "Fossil HJ2345",
+        "price": "$370",
+        "image": "https://www.fossil.com/on/demandware.static/-/Library-Sites-FossilSharedLibrary/default/dw14c3f13f/2022/SP22/set_0215_global/IC/0215_IC_M_Watch@2x.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Fossil AD8756",
+        "price": "$190",
+        "image": "https://fossil.scene7.com/is/image/FossilPartners/ES5185-alt?$sfcc_fos_medium$"
+    }
+]
