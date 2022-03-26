@@ -5,7 +5,9 @@ function App() {
   return (
     <div>
       <div className='text-center my-2'>
-        <h1 className='text-secondary'>Fossil Watch Store</h1>
+        <div className='header'>
+          <h1 className='text-secondary'>Fossil Watch Store</h1>
+        </div>
         <Shop></Shop>
         <div className="row container d-flex align-items-center">
           <div className="col-sm-6">

@@ -48,7 +48,7 @@ const Shop = () => {
                 <Cart
                     cart={cart}
                     removeProduct={removeProduct}
-                    randomChoose={randomChoose}
+                    randomChoose={() => randomChoose()}
                 ></Cart>
 
             </div>
