@@ -24,6 +24,10 @@ const Shop = () => {
         setCart([])
     }
 
+    const selectRandomName = () => {
+        Math.random(setCart(cart))
+    }
+
     return (
         <div className='shop-container my-4'>
             <div className='products-container'>
@@ -39,6 +43,7 @@ const Shop = () => {
                 <Cart
                     cart={cart}
                     removeProduct={removeProduct}
+                    selectRandomName={selectRandomName}
                 ></Cart>
             </div>
         </div>
