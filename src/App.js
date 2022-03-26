@@ -19,7 +19,7 @@ function App() {
           <div className="card">
             <div className="card-body">
               <h5 className="card-title">2. what are the differnce between props and state?</h5>
-              <p className="card-text"><strong>Props</strong><br />
+              <p className="card-text"><strong>Propssssss</strong><br />
                 Props are read only. <br />
                 Props are immutable. <br />
                 Props can be passed to child components. <br />

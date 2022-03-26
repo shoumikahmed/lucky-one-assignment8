@@ -2,7 +2,7 @@ import React from 'react';
 
 const Cart = (props) => {
 
-    const { cart, removeProduct, selectRandomName } = props
+    const { cart, removeProduct } = props
 
     let name = ''
     for (const product of cart) {

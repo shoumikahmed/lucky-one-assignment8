@@ -9,7 +9,6 @@ const Shop = () => {
 
     const [cart, setCart] = useState([])
 
-
     useEffect(() => {
         fetch('products.json')
             .then(res => res.json())
@@ -24,7 +23,6 @@ const Shop = () => {
     const removeProduct = () => {
         setCart([])
     }
-
 
     return (
         <div className='shop-container my-4'>
