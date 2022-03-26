@@ -27,9 +27,9 @@ const Shop = () => {
     }
 
     const randomChoose = () => {
-        const randomProduct = Math.floor(Math.random() * cart.length)
-        setRandomProduct(cart[randomProduct])
-        console.log(cart[randomProduct])
+        const randomNumber = Math.floor(Math.random() * cart.length)
+        setRandomProduct(cart[randomNumber])
+        console.log(cart[randomNumber])
     }
 
     return (

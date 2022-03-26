@@ -2,4 +2,11 @@
     position: sticky;
     top: 0;
     padding: 30px 20px;
+    height: 500px;
+    width: 400px;
+}
+@media screen and (max-width:668px) {
+    .cart button{
+        font-size: 15px;
+    }
 }
